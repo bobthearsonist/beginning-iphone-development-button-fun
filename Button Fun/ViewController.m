@@ -9,9 +9,12 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *statusLabel;
 
 @end
 
 @implementation ViewController
+- (IBAction)buttonPressed:(UIButton *)sender {
+}
 
 @end
