@@ -1,25 +1,32 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E88AE7DBF279A621B5AB5DF5C06B1BAE6CF14F43",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff" : 0
+    "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff" : 0,
+    "E88AE7DBF279A621B5AB5DF5C06B1BAE6CF14F43" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7BF12002-EACB-4509-B9B4-F66F1B9618C2",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff" : "beginning-iphone-development-button-fun\/"
+    "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff" : "",
+    "E88AE7DBF279A621B5AB5DF5C06B1BAE6CF14F43" : "Button%20Fun\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Button Fun",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Button Fun\/Button Fun.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Button Fun.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bobthearsonist\/beginning-iphone-development-button-fun",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3bcc925a-8ae6-819f-1bfb-ce57b7db7bff"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bobthearsonist\/beginning-iphone-development-button-fun.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E88AE7DBF279A621B5AB5DF5C06B1BAE6CF14F43"
     }
   ]
 }
